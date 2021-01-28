@@ -1,0 +1,17 @@
+[debug] Packaging D:\json_reader_Yakovlev\target\scala-2.11\json_reader_yakovlev_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	JsonReader$$anonfun$1.class
+[debug] 	  D:\json_reader_Yakovlev\target\scala-2.11\classes\JsonReader$$anonfun$1.class
+[debug] 	JsonReader$$anonfun$2.class
+[debug] 	  D:\json_reader_Yakovlev\target\scala-2.11\classes\JsonReader$$anonfun$2.class
+[debug] 	JsonReader$.class
+[debug] 	  D:\json_reader_Yakovlev\target\scala-2.11\classes\JsonReader$.class
+[debug] 	JsonReader$delayedInit$body.class
+[debug] 	  D:\json_reader_Yakovlev\target\scala-2.11\classes\JsonReader$delayedInit$body.class
+[debug] 	JsonReader$Winemag$.class
+[debug] 	  D:\json_reader_Yakovlev\target\scala-2.11\classes\JsonReader$Winemag$.class
+[debug] 	JsonReader$Winemag.class
+[debug] 	  D:\json_reader_Yakovlev\target\scala-2.11\classes\JsonReader$Winemag.class
+[debug] 	JsonReader.class
+[debug] 	  D:\json_reader_Yakovlev\target\scala-2.11\classes\JsonReader.class
+[debug] Done packaging.
