@@ -16,8 +16,8 @@ object JsonReader extends App {
 
   val spark = SparkSession.builder().appName("json_reader_Yakovlev").master("local").getOrCreate()
   val sc = spark.sparkContext
-  //val filename = args(0)
-  val filename = "D:\\json_reader_Yakovlev\\winemag-data-130k-v2.json"
+  val filename = args(0)
+  //val filename = "D:\\json_reader_Yakovlev\\winemag-data-130k-v2.json"
 
   val winemags = sc.textFile(filename)
     .map(s => parse(s).extract[Winemag])
